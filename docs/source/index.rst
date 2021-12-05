@@ -12,5 +12,12 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Universal Smash basics
+   Fundamentals
+   Koopaling Tech
+   Bread and butter combos
+   Mechakoopa confirms
+   Recovery
+   Mix ups, mind games, and tech
+   Advanced techniques
+   Credits
